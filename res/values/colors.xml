@@ -99,6 +99,13 @@ limitations under the License.
     <color name="night_delayedSendingProgress">#FFFFFF</color>
 
 
+    <!-- the colors for the text in the actionbar, normally the name and number of the contact -->
+    <color name="actionbarTitle">#f1f1f1</color>
+    <color name="actionbarSubtitle">#f1f1f1</color>
+    <color name="night_actionbarTitle">#f1f1f1</color>
+    <color name="night_actionbarSubtitle">#e1e1e1</color>
+
+
     <!-- include any other colors you may want to use in your layout below, these will
          not have any effect except in your message.xml if you include them -->
     <color name="night_sendbarBackground">#161616</color>
