@@ -88,9 +88,11 @@ limitations under the License.
     <color name="cancelBatch">#a9d49f</color>
     <color name="deleteBatch">#d95e5e</color>
     <color name="infoBatch">#65bdde</color>
+    <color name="compose">#65bdde</color>
     <color name="night_cancelBatch">#a9d49f</color>
     <color name="night_deleteBatch">#d95e5e</color>
     <color name="night_infoBatch">#4e90a9</color>
+    <color name="night_compose">#4e90a9</color>
 
 
     <!-- the colors for the delayed sending progress bubble that shows on screen after sending a message -->
