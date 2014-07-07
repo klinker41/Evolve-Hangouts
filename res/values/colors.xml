@@ -109,6 +109,13 @@ limitations under the License.
     <color name="night_actionbarSubtitle">#e1e1e1</color>
 
 
+    <!-- the colors for the status bar and nav bar on Android L -->
+    <color name="statusBar">#408331</color>
+    <color name="navigationBar">#000000</color>
+    <color name="night_statusBar">#000000</color>
+    <color name="night_navigationBar">#000000</color>
+
+
     <!-- include any other colors you may want to use in your layout below, these will
          not have any effect except in your message.xml if you include them -->
     <color name="night_sendbarBackground">#161616</color>
