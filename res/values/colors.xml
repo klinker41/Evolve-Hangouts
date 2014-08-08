@@ -111,7 +111,7 @@ limitations under the License.
 
     <!-- the colors for the status bar and nav bar on Android L -->
     <color name="statusBar">#408331</color>
-    <color name="navigationBar">#000000</color>
+    <color name="navigationBar">#408331</color>
     <color name="night_statusBar">#000000</color>
     <color name="night_navigationBar">#000000</color>
 
