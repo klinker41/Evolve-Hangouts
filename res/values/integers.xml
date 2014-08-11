@@ -15,14 +15,8 @@ See the License for the specific language governing permissions and
 limitations under the License.
 -->
 
-<set xmlns:android="http://schemas.android.com/apk/res/android"
-     android:interpolator="@android:anim/overshoot_interpolator">
+<resources>
 
-    <translate
-            android:fromXDelta="0%"
-            android:toXDelta="0%"
-            android:fromYDelta="100%"
-            android:toYDelta="0%"
-            android:duration="@integer/animation_time"/>
+    <integer name="animation_time">300</integer>
 
-</set>
+</resources>
